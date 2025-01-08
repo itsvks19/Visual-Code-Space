@@ -44,7 +44,7 @@ androidx-browser = { module = "androidx.browser:browser", version.ref = "browser
 androidx-core = { module = "androidx.core:core", version = "1.13.1" }
 androidx-core-ktx = { module = "androidx.core:core-ktx", version = "1.13.1" }
 androidx-desugar = { module = "com.android.tools:desugar_jdk_libs", version = "2.1.2" }
-androidx-fragment_ktx = { module = "androidx.fragment:fragment-ktx", version = "1.8.4" }
+androidx-fragment_ktx = { module = "androidx.fragment:fragment-ktx", version = "1.8.5" }
 androidx-material-icons-extended = { module = "androidx.compose.material:material-icons-extended", version.ref = "material-icons-extended" }
 androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigation-compose" }
 androidx-navigation-safe-args-gradle-plugin = { module = "androidx.navigation:navigation-safe-args-gradle-plugin", version.ref = "androidx-navigation" }
