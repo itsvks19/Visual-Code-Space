@@ -38,7 +38,7 @@ espresso-core = "3.6.1"
 [libraries]
 
 # AndroidX
-androidx-annotation = { module = "androidx.annotation:annotation", version = "1.9.0" }
+androidx-annotation = { module = "androidx.annotation:annotation", version = "1.9.1" }
 androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.7.0" }
 androidx-browser = { module = "androidx.browser:browser", version.ref = "browser" }
 androidx-core = { module = "androidx.core:core", version = "1.13.1" }
