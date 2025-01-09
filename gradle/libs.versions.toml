@@ -118,7 +118,7 @@ androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "j
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
 
 [plugins]
-android-application = { id = "com.android.application", version = "8.6.0" }
+android-application = { id = "com.android.application", version = "8.8.0" }
 android-library = { id = "com.android.library", version = "8.6.0" }
 kotlin = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
